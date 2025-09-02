@@ -10,7 +10,7 @@ This Python script implements a nontraditional prime sieve that generates primes
 - Advances the multiple of the smaller prime when collisions occur
 
 ## Verification
-Confirmed: the 2000th prime (excluding 2 and 5) is correctly identified as **17,401**.
+Confirmed: the 2900th prime (excluding 2 and 5) is correctly identified as **26,417**.
 
 ## How to Run
 Use any Python 3 environment. Run `digit_sieve.py` to generate primes. The script prints the 2000th prime by default.
